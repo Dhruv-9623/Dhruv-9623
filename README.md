@@ -85,5 +85,5 @@ This profile is a living archive of **undeniable value creation**.
 ## 📫 Let’s Talk Strategy
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)  
-- 📩 patel9gb@uwindsor.ca  
+- 📩 dhruvpatel9623@gmail.com 
 - 🌐 Portfolio: Coming soon
