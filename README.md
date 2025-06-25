@@ -1,6 +1,13 @@
 <h1 align="center">⚔️ Dhruv Patel — Cloud Dev | DevOps Hustler | Full Stack Sniper ⚔️</h1>
 
 <p align="center">
+  <!-- 🔥 CHECKPOINT 3: Profile Badges START -->
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-9623&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dhruv-9623?label=Follow&style=social" alt="GitHub Followers" />
+  <!-- 🔥 CHECKPOINT 3: Profile Badges END -->
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&width=435&lines=Building+Cloud+Infra;Shipping+Code+Daily;Automating+the+World;Your+Next+Best+Hire" alt="Typing SVG" />
 </p>
 
