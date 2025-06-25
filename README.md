@@ -72,16 +72,6 @@ Cloud-savvy engineer who transforms complex ideas into scalable, automated syste
 
 ---
 
-## 🧠 Execution Mindset
-
-> “I don’t wait to be taught. I dissect, deploy, and dominate.”  
-> This isn’t a portfolio — it’s a **war journal.**
-
-Every commit is a campaign. Every project is a prototype.  
-This profile is a living archive of **undeniable value creation**.
-
----
-
 ## 📫 Let’s Talk Strategy
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)  
