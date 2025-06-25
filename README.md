@@ -54,7 +54,9 @@ Cloud-savvy engineer who transforms complex ideas into scalable, automated syste
 | **Crime Prediction System** | Deep learning model to forecast crime hotspots from historical data | Python, TensorFlow, Keras |
 | **HR Analytics & Reporting Tool** | SQL-powered dashboards for performance/turnover tracking using Power BI | SQL, Power BI |
 | **CAR FIXERS Utility Website** | Web app with animation, form validation, and dynamic UI | HTML, CSS, Angular, PHP, jQuery |
+
 | **Upcoming Ones** |
+
 | **Cloud Resume Challenge** | Cloud-native resume site with CI/CD, metrics, and secure S3 hosting | AWS, Python, Terraform, GitHub Actions |
 | **DevOps Lab** | Automated microservices pipeline with observability | Docker, Prometheus, GitHub Actions |
 | **Zero-Downtime Web Deploy** | Production web app with blue-green deploys & monitoring | React, Node.js, NGINX, Docker Swarm |
