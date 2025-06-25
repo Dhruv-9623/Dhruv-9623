@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Dhruv Patel — Cloud Warrior | DevOps Strategist | Full-Stack Sniper 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Building+the+Cloud+One+Commit+at+a+Time;Automating+My+Dominance;DevOps+Flows+in+My+Veins;Shipping+Code+Without+Fear;Your+Next+Top+Hire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Building+the+Cloud+One+Commit+at+a+Time;DevOps+AWS+Enthusiast;Shipping+Codes;Your+Next+Top+Hire" alt="Typing SVG" />
 </p>
 
 <p align="center">
