@@ -1,50 +1,78 @@
-<h1 align="center">⚙️ Dhruv Patel</h1>
+<h1 align="center">🔥 Dhruv Patel — Cloud Warrior | DevOps Strategist | Full-Stack Sniper 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&lines=Cloud+Engineer+%7C+DevOps+%7C+Full-Stack+Developer;AWS+Infra+%2B+Kubernetes+%2B+CI%2FCD+Specialist;Shipping+Resilient+Systems+is+my+Sport;Zero+Excuses.+Maximum+Execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Building+the+Cloud+One+Commit+at+a+Time;Automating+My+Dominance;DevOps+Flows+in+My+Veins;Shipping+Code+Without+Fear;Your+Next+Top+Hire" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-9623&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-9623&color=F97316" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Dhruv-9623?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```yaml
-name: Dhruv Patel
-title: AWS Cloud Engineer | DevOps Strategist | Full-Stack Developer
-location: Toronto, Canada
-motto: "Automate. Scale. Execute. Repeat."
-status: Open to Cloud & Platform Engineering Roles – Fall 2025
-I design and deploy resilient, cloud-native systems using infrastructure-as-code, containerized pipelines, and bulletproof backend logic.
+I don’t just write code — I **build production systems** that scale, heal, and automate themselves.
 
-🎓 Master’s in Applied Computing @ University of Windsor
+- 🎓 Master’s in Applied Computing @ University of Windsor  
+- ☁️ Cloud-Native, DevOps-First, Backend-Strong  
+- 💡 Fast executor with a growth-mindset and no time for excuses  
+- 🛠️ Repetition. Resilience. Ruthless Execution.
 
-☁️ Obsessed with Cloud-native reliability and DevOps flow
+> I deploy with discipline. I design with purpose. I execute without delay.
 
-🧠 Systems Thinker. Execution-Obsessed. Results-Driven.
+---
 
-🧰 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,python,java,nodejs,react,linux,bash,git,github,mongodb,postgresql&perline=7" /> </p>
-🚀 Projects in Flight
-Project	Description	Tech
-🌩️ Cloud Resume Challenge	AWS-hosted resume site w/ CI/CD, API metrics, HTTPS	S3, Lambda, API GW, GitHub Actions
-🔁 DevOps Lab	Auto-pipeline w/ containerized microservices + live deploys	Node.js, Docker, Actions, K8s
-🔄 Zero Downtime App	Blue-green deployment pipeline + monitoring	React, NGINX, Docker Swarm, Prometheus
-📊 Kube-Insight	Cluster monitoring dashboard using Helm, Grafana	Kubernetes, Helm, Prometheus, Grafana
+## 💻 Tech Arsenal
 
-🔧 Every project is built like it’s going to production — because that’s how I think.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-9623&show_icons=true&theme=tokyonight&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-9623&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-9623&theme=github_dark" /> </p>
-🧠 What Drives Me
-“Discipline without drama. Execution without ego. Systems without failure.”
+---
 
-My GitHub is not a portfolio — it’s a delivery pipeline for my mindset.
-Every commit = intent. Every repo = results. Every line = earned.
+## 🚀 Top Projects to Check Now
 
-🤝 Let's Connect
-<p align="left"> <a href="mailto:patel9gb@uwindsor.ca"><img src="https://img.shields.io/badge/Email-patel9gb@uwindsor.ca-red?style=flat-square&logo=gmail"></a> <a href="https://www.linkedin.com/in/dhruv-patel-93a227228/"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Patel-blue?style=flat-square&logo=linkedin"></a> </p> ``
+| 🔥 Project | 💡 Description | 🧰 Stack |
+|-----------|----------------|---------|
+| **Cloud Resume Challenge** | A full cloud-native resume pipeline with CI/CD, metrics, and secure hosting | AWS, Python, Terraform, GitHub Actions |
+| **DevOps Lab** | Sandbox for build → test → deploy pipelines + logging/metrics | Docker, Prometheus, GitHub Actions |
+| **Zero-Downtime Web Deploy** | Production-grade web app with zero-downtime deployments | React, Node.js, NGINX, Docker Swarm |
+| **AI Infra as Code** *(coming soon)* | Terraform-powered GPU cluster deployment for AI jobs | AWS CLI, EC2, Terraform, Shell |
+
+---
+
+## 📊 GitHub Stats (Because Data Dominates)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-9623&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-9623&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🧠 Execution Mindset
+
+> “I don’t wait to be taught. I dissect, deploy, and dominate.”  
+> This isn’t a portfolio — it’s a **war journal.**
+
+Every commit is a campaign. Every project is a prototype.  
+This profile is a live archive of **undeniable value creation**.
+
+---
+
+## 📫 Let’s Talk Strategy
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)  
+- 📩 patel9gb@uwindsor.ca
