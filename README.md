@@ -57,4 +57,5 @@ From cloud deployments to CI/CD to full-stack apps — I ship like it's a sport.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)
+- 📧 dhruvpatel9623@gmail.com
 - 📧 patel9gb@uwindsor.ca
