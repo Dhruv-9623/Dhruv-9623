@@ -1,7 +1,7 @@
-<h1 align="center">🔥 Dhruv Patel — Cloud Warrior | DevOps AWS Architect | Full-Stack  🔥</h1>
+<h1 align="center">🔥 Dhruv Patel — Cloud Warrior | DevOps Strategist | Full-Stack Sniper 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Building+the+Cloud+One+Commit+at+a+Time;DevOps+AWS+Enthusiast;Shipping+Codes;Your+Next+Top+Hire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Building+Cloud+Infrastructure+One+Commit+at+a+Time;Automating+Systems+Relentlessly;Scaling+Without+Apology;DevOps+Flows+Through+My+Code;Your+Next+Top+Hire" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
- I **build production systems** that scale, heal, and automate themselves.
+Cloud-savvy engineer who transforms complex ideas into scalable, automated systems.
 
 - 🎓 Master’s in Applied Computing @ University of Windsor  
 - ☁️ Cloud-Native, DevOps-First, Backend-Strong  
-- 💡 Fast executor with a growth-mindset and no time for excuses  
+- 💡 Fast executor with a growth mindset and zero excuses  
 - 🛠️ Repetition. Resilience. Ruthless Execution.
 
 > I deploy with discipline. I design with purpose. I execute without delay.
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -46,10 +48,18 @@
 
 | 🔥 Project | 💡 Description | 🧰 Stack |
 |-----------|----------------|---------|
-| **Cloud Resume Challenge** | A full cloud-native resume pipeline with CI/CD, metrics, and secure hosting | AWS, Python, Terraform, GitHub Actions |
-| **DevOps Lab** | Sandbox for build → test → deploy pipelines + logging/metrics | Docker, Prometheus, GitHub Actions |
-| **Zero-Downtime Web Deploy** | Production-grade web app with zero-downtime deployments | React, Node.js, NGINX, Docker Swarm |
-| **AI Infra as Code** *(coming soon)* | Terraform-powered GPU cluster deployment for AI jobs | AWS CLI, EC2, Terraform, Shell |
+| **Linux Process Tree Analyzer (prct)** | Advanced CLI tool for analyzing Linux process trees, identifying zombie processes | C, Linux, System Calls |
+| **Advanced Directory Tree Utility (dtree)** | File system traversal and memory-optimized tree generator using nftw | C, Linux |
+| **E-Commerce Platform (Kart)** | Full-stack shopping website with auth, payment, and responsive UI | Angular, Node.js, MongoDB |
+| **Crime Prediction System** | Deep learning model to forecast crime hotspots from historical data | Python, TensorFlow, Keras |
+| **HR Analytics & Reporting Tool** | SQL-powered dashboards for performance/turnover tracking using Power BI | SQL, Power BI |
+| **CAR FIXERS Utility Website** | Web app with animation, form validation, and dynamic UI | HTML, CSS, Angular, PHP, jQuery |
+
+-----------|----------------|---------|
+| **Cloud Resume Challenge** | Cloud-native resume site with CI/CD, metrics, and secure S3 hosting | AWS, Python, Terraform, GitHub Actions |
+| **DevOps Lab** | Automated microservices pipeline with observability | Docker, Prometheus, GitHub Actions |
+| **Zero-Downtime Web Deploy** | Production web app with blue-green deploys & monitoring | React, Node.js, NGINX, Docker Swarm |
+| **AI Infra as Code** *(🚧 Coming Soon)* | Provision GPU-ready EC2 clusters via Terraform | AWS CLI, EC2, Terraform, Shell |
 
 ---
 
@@ -68,11 +78,12 @@
 > This isn’t a portfolio — it’s a **war journal.**
 
 Every commit is a campaign. Every project is a prototype.  
-This profile is a live archive of **undeniable value creation**.
+This profile is a living archive of **undeniable value creation**.
 
 ---
 
 ## 📫 Let’s Talk Strategy
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)  
-- 📩 patel9gb@uwindsor.ca
+- 📩 patel9gb@uwindsor.ca  
+- 🌐 Portfolio: Coming soon
