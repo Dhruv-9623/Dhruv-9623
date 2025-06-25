@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Dhruv Patel — Cloud Dev | DevOps Hustler | Full Stack Sniper ⚔️</h1>
+<h1 align="center">⚔️ Dhruv Patel — Cloud Dev | DevOps Hustler | AWS Enthusiast | Full Stack Engineer ⚔️</h1>
 
 <p align="center">
   <!-- 🔥 CHECKPOINT 3: Profile Badges START -->
