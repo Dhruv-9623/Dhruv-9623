@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I don’t just write code — I **build production systems** that scale, heal, and automate themselves.
+ I **build production systems** that scale, heal, and automate themselves.
 
 - 🎓 Master’s in Applied Computing @ University of Windsor  
 - ☁️ Cloud-Native, DevOps-First, Backend-Strong  
