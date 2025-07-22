@@ -1,107 +1,73 @@
-# Dhruv Patel
+<h1 align="center">Dhruv Patel — Java Dev | Cloud-Native Engineer | AWS Certified | DevOps Builder</h1>
 
-**Cloud Solutions Architect | DevOps Engineer | Full-Stack Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Infrastructure;Java+in+the+Back%2C+Cloud+on+Top;Automating+Deployments+Daily;Let%E2%80%99s+Build+Something+Legendary" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-patel-93a227228/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvpatel9623@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-9623&color=2F81F7&style=flat)](https://github.com/Dhruv-9623)
-
----
-
-## About Me
-
-Graduate student in Applied Computing at the University of Windsor with a passion for building scalable cloud infrastructure and robust software systems. I specialize in DevOps automation, cloud-native architectures, and full-stack development with a focus on delivering production-ready solutions.
-
-**Currently seeking Software Engineering and Cloud Infrastructure internships for Summer 2025**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-9623&color=00ADB5" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dhruv-9623?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+Cloud-native developer and Java enthusiast passionate about solving real-world problems with clean code and scalable systems.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- 🎓 Master’s in Applied Computing @ University of Windsor
+- ☁️ AWS Certified | DevOps-Driven | Java-Backed
+- 💡 I believe in automation, iteration, and smart execution
+- 🧠 Always learning, always shipping
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+> “I design for scale, code for clarity, and build like it’s production.”
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
 
-### 🔧 [Linux Process Tree Analyzer (prct)](https://github.com/Dhruv-9623/prct)
-Advanced command-line utility for Linux system administration and process monitoring
-- **Technologies:** C, Linux System Calls, Process Management
-- **Key Features:** Process tree visualization, zombie process detection, memory usage analysis
-- **Impact:** Optimized system debugging workflows by 40% through automated process analysis
-
-### 🌐 [E-Commerce Platform (Kart)](https://github.com/Dhruv-9623/kart)
-Full-stack e-commerce solution with modern web technologies
-- **Technologies:** Angular, Node.js, MongoDB, JWT Authentication
-- **Key Features:** Secure payment processing, real-time inventory management, responsive design
-- **Architecture:** RESTful API design with microservices patterns
-
-### 🤖 [Crime Prediction Analytics System](https://github.com/Dhruv-9623/crime-prediction)
-Machine learning solution for predictive policing and public safety optimization
-- **Technologies:** Python, TensorFlow, Scikit-learn, Pandas
-- **Key Features:** Geospatial analysis, time-series forecasting, interactive dashboards
-- **Results:** Achieved 85% accuracy in crime hotspot prediction using ensemble methods
-
-### ☁️ [Cloud Resume Challenge](https://github.com/Dhruv-9623/cloud-resume) *(In Development)*
-Serverless web application demonstrating cloud-native development practices
-- **Technologies:** AWS (S3, CloudFront, Lambda, DynamoDB), Terraform, GitHub Actions
-- **Key Features:** Infrastructure as Code, CI/CD pipeline, visitor analytics
-- **Focus:** DevOps best practices and cloud architecture design
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ---
 
-## Professional Experience Highlights
+## 🧠 Featured Projects
 
-- **Systems Programming:** Developed low-level C applications for Linux process management and file system operations
-- **Cloud Architecture:** Designed and implemented scalable infrastructure solutions using AWS services and Terraform
-- **Full-Stack Development:** Built production-ready web applications with modern frameworks and databases
-- **Data Engineering:** Created analytics pipelines and machine learning models for business intelligence
-- **DevOps Practices:** Implemented CI/CD workflows and containerized application deployments
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-9623&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-9623&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+| 🚀 Project | 🧩 Description | 🛠️ Stack |
+|-----------|----------------|---------|
+| **JarvisTerminal** | Voice-controlled Java-based terminal assistant built on Replit | Java, Speech API |
+| **Crime Prediction System** | Forecasts crime likelihood using weather/time data | Python, ML, Seaborn |
+| **E-Commerce Platform (Kart)** | Full-stack web shop with payment & login flow | Angular, Node.js, MongoDB |
+| **Cloud Resume Challenge** | CI/CD powered resume hosted on AWS with infra-as-code | AWS, Python, Terraform |
+| **DevOps Lab** | Microservices lab with metrics & observability | Docker, Prometheus, GitHub Actions |
+| **CAR FIXERS Utility Site** | Frontend-first app with animation & form validation | Angular, PHP, CSS |
 
 ---
 
-## Education
+## 📊 GitHub Stats
 
-**Master of Applied Computing** | University of Windsor | *2024 - Present*
-- Focus: Cloud Computing, Software Engineering, Data Structures & Algorithms
-- Relevant Coursework: Distributed Systems, Database Management, Software Architecture
-
----
-
-## Let's Connect
-
-I'm actively seeking internship opportunities where I can contribute to innovative projects and learn from experienced engineering teams. Feel free to reach out to discuss potential collaborations or opportunities.
-
-📧 **dhruvpatel9623@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-9623&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-9623&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
 
-*"Passionate about building robust, scalable systems that solve real-world problems through clean code and thoughtful architecture."*
+## 📬 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-patel-93a227228/)
+- 📫 dhruvpatel9623@gmail.com
+- 🌐 Portfolio: Coming soon
