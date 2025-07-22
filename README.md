@@ -57,14 +57,6 @@ Cloud-native developer and Java enthusiast passionate about solving real-world p
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-9623&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-9623&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
 
 ## 📬 Let’s Connect
 
