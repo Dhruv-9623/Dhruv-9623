@@ -48,6 +48,7 @@ Cloud-native developer and Java enthusiast passionate about solving real-world p
 
 | 🚀 Project | 🧩 Description | 🛠️ Stack |
 |-----------|----------------|---------|
+| **BankHub** | digital banking platform built with modern microservices architecture | Java, Redis, Docker, AWS |
 | **JarvisTerminal** | Voice-controlled Java-based terminal assistant built on Replit | Java, Speech API |
 | **Crime Prediction System** | Forecasts crime likelihood using weather/time data | Python, ML, Seaborn |
 | **E-Commerce Platform (Kart)** | Full-stack web shop with payment & login flow | Angular, Node.js, MongoDB |
