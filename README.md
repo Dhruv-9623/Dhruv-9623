@@ -53,7 +53,6 @@ Cloud-native developer and Java enthusiast passionate about solving real-world p
 | **Crime Prediction System** | Forecasts crime likelihood using weather/time data | Python, ML, Seaborn |
 | **E-Commerce Platform (Kart)** | Full-stack web shop with payment & login flow | Angular, Node.js, MongoDB |
 | **Cloud Resume Challenge** | CI/CD powered resume hosted on AWS with infra-as-code | AWS, Python, Terraform |
-| **DevOps Lab** | Microservices lab with metrics & observability | Docker, Prometheus, GitHub Actions |
 | **CAR FIXERS Utility Site** | Frontend-first app with animation & form validation | Angular, PHP, CSS |
 
 ---
